@@ -1,4 +1,4 @@
-using dummy2;
+using Dummy2;
 
 namespace dummy
 {
