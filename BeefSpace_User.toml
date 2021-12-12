@@ -51,10 +51,10 @@ Type = "TabbedView"
 [[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
 Active = true
 TabLabel = "DumDum.bf"
-TabWidth = 109.0
+TabWidth = 99.0
 Type = "SourceViewPanel"
 FilePath = "src\\DumDum.bf"
-CursorPos = 13
+CursorPos = 7
 ProjectName = "dummy"
 
 [[MainDockingFrame.DockedWidgets.DockedWidgets]]
