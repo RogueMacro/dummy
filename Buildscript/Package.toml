@@ -2,3 +2,6 @@
 Name = "Buildscript"
 Version = "0.1.0"
 Description = ""
+
+[Dependencies]
+BuildTools = { Path = "../../grill-buildtools" }

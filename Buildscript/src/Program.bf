@@ -7,7 +7,9 @@ namespace Buildscript
     {
         public static int Main(String[] args)
         {
-			Thread.Sleep(4000);
+			BuildTools.CMake.Run("--version", false);
+			Console.Write("finished..");
+			Console.ReadLine(scope .());
 
             return 0;
         }

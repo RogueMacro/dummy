@@ -1,10 +1,6 @@
 FileVersion = 1
-
-[Dependencies]
-corlib = "*"
+Dependencies = {corlib = "*", BuildTools = "*"}
 
 [Project]
 Name = "Buildscript"
-TargetType = "BeefConsoleApplication"
 StartupObject = "Buildscript.Program"
-ProcessorMacros = []

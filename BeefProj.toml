@@ -1,6 +1,10 @@
 FileVersion = 1
 
+[Dependencies]
+corlib = "*"
+
 [Project]
 Name = "dummy"
 TargetType = "BeefLib"
 StartupObject = "dummy.Program"
+ProcessorMacros = []
